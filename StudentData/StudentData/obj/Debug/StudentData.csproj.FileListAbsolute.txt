@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\bin\Debug\StudentData.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\bin\Debug\StudentData.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\bin\Debug\StudentData.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\obj\Debug\StudentData.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\obj\Debug\StudentData.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\PracticeProject3\StudentData\StudentData\obj\Debug\StudentData.pdb
